@@ -1,0 +1,44 @@
+* {
+    font-family : -apple-system , system-ui , BlinkMacSystemFont , sans-serif ;
+}
+
+h1 {
+    font-weight : 600 ;
+    font-size : 6em ;
+    color : black ;
+}
+
+h2 {
+    font-weight : normal ;
+    font-size : 2em ;
+    color : black ;
+}
+
+h3 {
+    font-weight : normal ;
+    font-size : 1em ;
+    color : black ;
+}
+
+html {
+    background-color : white ;
+}
+
+#titlediv {
+
+}
+
+#title {
+    margin-top : 3em ;
+    text-align : center ;
+}
+
+#subtitle {
+    margin-top : -2em ;
+    text-align : center ;
+}
+
+#subsubtitle {
+    margin-top : -0.5em ;
+    text-align : center ;
+}
